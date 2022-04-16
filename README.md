@@ -1,5 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/deeprajpuri/ConsotoAir/_apis/build/status/dpuri3.ContosoAir?branchName=master)](https://dev.azure.com/deeprajpuri/ConsotoAir/_build/latest?definitionId=5&branchName=master)
 
 # Microsoft.Github CI Demo
 
